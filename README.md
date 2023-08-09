@@ -21,7 +21,7 @@ If you use the package in your research, please cite our paper:
 @article{wang2023improved,
   title={Improved Visual Fine-tuning with Natural Language Supervision},
   author={Wang, Junyang and Xu, Yuanhong and Hu, Juhua and Yan, Ming and Sang, Jitao and Qian, Qi},
-  journal={arXiv preprint arXiv:2304.01489},
+  booktitle = {{IEEE} International Conference on Computer Vision, {ICCV} 2023},
   year={2023}
 }
 ```
